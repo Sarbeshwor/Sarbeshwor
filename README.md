@@ -1,14 +1,14 @@
-<h2 align="left">I am Sarbeshwor Ghimire (OM).</h2>
+<h2 align="left">Hi My name is Sarbeshwor Ghimire<br>Undergraduate Student</h2>
 
 ###
 
-<p align="left">Undergraduate Student<br>I code for fun.</p>
+<p align="left">I code for fun.</p>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarbeshwor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarbeshwor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sarbeshwor&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarbeshwor&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -24,11 +24,7 @@
 
 ###
 
-<img align="left" height="180" src="https://media1.tenor.com/m/TbeT5L4JDY8AAAAC/nie-%C5%9Bpi%C4%99-miasto-mnie-potrzebuje-nie-%C5%9Bpi%C4%99.gif"  />
-
-###
-
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
